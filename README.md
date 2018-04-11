@@ -2,7 +2,7 @@
 
 **Random scripts for dealing with ddRAD data, including output from pyRAD**  
 
-snps2phylip.py - converts a .snps file from pyRAD to Phylip format  
+## snps2phylip.py - converts a .snps file from pyRAD to Phylip format  
 
 Usage:  
-`snps2phylip -f [input.snps] -o [output.phy; optional, default="out.phy"]`
+`snps2phylip -f [input.snps] -o [output.phy; optional, default="out.phy"]`  
