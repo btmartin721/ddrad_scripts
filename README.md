@@ -7,8 +7,7 @@
 Usage:  
 `snps2phylip -f [input.snps] -o [output.phy; optional, default="out.phy"]`  
 
-## getbadpyrad.py - Writes samples with high missing data from pyRAD .stats file to CSV so they can be input into
- a pyRAD params file
+## getbadpyrad.py - Writes samples with high missing data from pyRAD .stats file to CSV so they can be input into a pyRAD params file
 
 Usage:  
 `getbadpyrad.py -f [input.stats] -o [output_filename] -p [minimum proportion of loci for inclusion; float]`  
