@@ -134,7 +134,7 @@ def Get_Arguments():
     # Parse command-line arguments using argparse.
     # Returns:
     #       Object containing command-line arguments.
-    parser = argparse.ArgumentParser(description="Gets phylogenetically  "
+    parser = argparse.ArgumentParser(description="Blacklists phylogenetically  "
                                     "uninformative loci listed in "
                                     "IQ-TREE log file.",
                                     add_help=False)
