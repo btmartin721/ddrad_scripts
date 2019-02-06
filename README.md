@@ -14,4 +14,13 @@ Usage:
 
 I.e., -p 0.15 excludes samples with more than 85% missing data  
 
+## filterUninformative.py - Uses .log file from IQ-TREE to blacklist uninformative loci from a directory of loci files.  
 
+Usage:  
+`filterUninformative -l [input.log (must be in working directory)] -d [path/to/directoryWithLociFiles/ (must be subdirectory)]`  
+
+Optional arguments: 
+-b [/path/to/blacklistDIR]  
+-h Displays help menu
+
+The log file must be in the current working directory, and the loci directory must be a subdirectory within the working directory.  
