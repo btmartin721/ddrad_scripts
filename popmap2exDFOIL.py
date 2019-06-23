@@ -142,7 +142,7 @@ def Get_Arguments():
                                 required=False,
                                 default="mysampleinfo.txt",
                                 nargs="?",
-                                help="Specify output filename")
+                                help="Specify output filename; default=mysampleinfo.txt")
     optional_args.add_argument("-h", "--help",
                                 action="help",
                                 help="Displays this help menu")
