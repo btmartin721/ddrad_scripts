@@ -28,7 +28,7 @@ The log file must be in the current working directory, and the loci directory mu
 ## popmap2exDFOIL.py  
 
 ### Dependencies  
-Python3
+Python3  
 pandas  
 numpy  
 
