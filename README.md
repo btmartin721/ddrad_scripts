@@ -60,7 +60,8 @@ At least one map file is required. Only the ones the user specify as commmand-li
 
 ### Example Output:  
 
-```Individual batch popID speciesID subspeciesID
+```
+Individual batch popID speciesID subspeciesID
 oberon10_JJW683p1 1 oberon10 oberon oberon_black
 oberon10_JJW684p1 1 oberon10 oberon oberon_black
 oberon10_JJW685 2 oberon10 oberon oberon_black
