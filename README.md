@@ -71,7 +71,7 @@ oberon10_JJW685 2 oberon10 oberon oberon_black
 ```./popmap2exDFOIL.py -p [POPMAP_FILENAME] [optional_arguments]  
 
 Required arguments:  
--p [POPMAP_FILENAME]  Specifies popmap filename  
+-p [POPMAP_FILENAME]  Specifies popID filename  
 
 Optional arguments:  
 -b [BATCH_FILENAME]  Specifies batch filename  
